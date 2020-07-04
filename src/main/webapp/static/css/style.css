@@ -1,0 +1,16 @@
+.estore-prod {
+	height: 150px !important;
+	max-width: 100%;
+}
+
+.detail-img {
+	max-width: 100%;
+	max-height: 400px;
+	
+}
+.detail-info li{
+	font-variant: small-caps;
+	font-size: larger;
+	line-height: 30px;	
+	
+}
